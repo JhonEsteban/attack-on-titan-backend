@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Eren Jaeger",
+    "avatar": "https://i.imgur.com/XxX7zFV.jpg",
+    "typeOfArmy": "Legión de Reconocimiento",
+    "armyImage": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Eren Jaeger protagonista principal de la serie, es oriundo del Distrito Shiganshina, una ciudad situada en el exterior de la Muralla María. Junto con su hermana adoptiva Mikasa y su mejor amigo Armin Arlert."
+  },
+  {
+    "id": "2",
+    "name": "Armin Arlert",
+    "avatar": "https://i.imgur.com/1eCMBFN.jpg",
+    "typeOfArmy": "Legión de Reconocimiento",
+    "armyImage": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Es un amigo de la infancia de Eren Jaeger y Mikasa Ackerman. Aunque físicamente es más débil que el resto de sus compañeros, demuestra una gran inteligencia a través de su capacidad estratégica y soluciones rápidas."
+  },
+  {
+    "id": "3",
+    "name": "Mikasa Ackerman",
+    "avatar": "https://i.imgur.com/hiJUMlC.jpg",
+    "typeOfArmy": "Legión de Reconocimiento",
+    "armyImage": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Es la hermana adoptiva de Eren Jaeger. Le debe mucho a él, desde que la salvó de los secuestradores que pretendían convertirla en esclava, y pasa la mayor parte de su tiempo juntos. Así pues, aunque a veces no esté de acuerdo con lo que hace, pero lo protege de cualquiera que trate de hacerle daño."
+  },
+  {
+    "id": "4",
+    "name": "Levi Ackerman",
+    "avatar": "https://i.imgur.com/sYzZmmh.jpg",
+    "typeOfArmy": "Legión de Reconocimiento",
+    "armyImage": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Es el capitán del escuadrón de operaciones especiales  de la Legión de Reconocimiento, y es conocido como el soldado más fuerte de la humanidad"
+  },
+  {
+    "id": "5",
+    "name": "Erwin Smith",
+    "avatar": "https://i.imgur.com/NesNmmK.jpg",
+    "typeOfArmy": "Legión de Reconocimiento",
+    "armyImage": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Fue el 13º comandante del Cuerpo de Exploración. Inteligente, respetado, Erwin fue un hombre capaz, quien, al igual que Levi, cuidaba mucho a sus hombres y no dudaba en sacrificarse para el futuro de la humanidad. Él desarrolló la Formación a Larga Distancia para Detección de Enemigos, estrategia que benefició mucho al Cuerpo de Exploración ya que aportó en un 30% más de posibilidades de que los soldados no mueran ni se extravíen."
+  },
+  {
+    "id": "6",
+    "name": "Hange Zoë",
+    "avatar": "https://i.imgur.com/kNY9tHX.jpg",
+    "typeOfArmy": "Legión de Reconocimiento",
+    "armyImage": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Fue la 14º comandante del Cuerpo de Exploración. Anteriormente, fue una Líder de Escuadrón, quien estuvo a cargo del cuarto escuadrón. Llevaba a cabo las investigaciones sobre los titanes y como tal, estaba bastante interesada en Eren Jaeger, debido a su habilidad de convertirse en titán."
+  }
+]
