@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Legión de Reconocimiento",
+    "image": "https://i.imgur.com/oe4IlmB.png",
+    "description": "Es uno de los tres organismos en que se divide el ejército de Paradis. La Legión de Reconocimiento se encarga de luchar contra los titanes en las afueras de las murallas para obtener información útil sobre como vencerlos. A pesar de los constantes fallos y las grandes pérdidas cuando salen de las murallas, las personas los siguen considerando como la poca esperanza de la humanidad, porque si ellos obtienen la victoria el mundo entero la tendrá."
+  },
+  {
+    "id": "2",
+    "name": "Tropas de Guarnición",
+    "image": "https://i.imgur.com/UruFgLL.png",
+    "description": "Son una de las divisiones militares encargadas de proteger y mantener el orden dentro de las murallas. La mayoría de los soldados se unen a las Tropas de Guarnición debido a que en la Legión de Reconocimiento las misiones tienen un riesgo de mortalidad mayor y en la Policía Militar la entrada es limitada, ya que entran sólo los 10 mejores de cada ciclo."
+  },
+  {
+    "id": "3",
+    "name": "Policía Militar",
+    "image": "https://i.imgur.com/LYfRz6E.png",
+    "description": "Es una rama de las divisiones militares, están encargadas de servir al rey y mantener el orden en la pared interior. Es el grupo más prestigioso ya que sólo las 10 mejores calificaciones de cada ciclo pueden solicitar unirse a la Policía Militar. Más allá de ser el grupo más prestigioso por su trabajo que les permite vivir en el interior, es una de las divisiones militares más dañadas y corruptas debido a la falta de control en comparación a otros sectores del ejército."
+  }
+]
