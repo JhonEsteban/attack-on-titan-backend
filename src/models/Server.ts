@@ -2,7 +2,7 @@ import cors from 'cors';
 import express, { Application } from 'express';
 
 import { Paths } from '../models';
-import { characterRoutes } from '../routes';
+import { characterRoutes, wallRoutes } from '../routes';
 
 class Server {
   private app: Application;
@@ -30,6 +30,7 @@ class Server {
 
   private setRoutes(): void {
     this.app.use(`${this.paths.api}${this.paths.characters}`, characterRoutes);
+    this.app.use(`${this.paths.api}${this.paths.walls}`, wallRoutes);
   }
 
   public run(): void {

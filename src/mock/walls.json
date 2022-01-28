@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "Muralla María",
+    "image": "https://i.imgur.com/o0mRlSO.png",
+    "description": "La Muralla María es la pared más externa del reino humano. Al igual que las otras murallas, María mide unos 50 metros de altura. La distancia entre María y la Muralla Rose es de aproximadamente 100 kilómetros.",
+    "districts": ["Distrito Shiganshina", "Distrito Quinta"]
+  },
+  {
+    "id": "2",
+    "name": "Muralla Rose",
+    "image": "https://i.imgur.com/saEE9Sy.png",
+    "description": "La Muralla Rose es la segunda pared exterior seguida de la Muralla María. La distancia entre la Muralla María y la Muralla Rose es de 100 kilómetros, y entre la Muralla Rose y Sina es de 130 kilómetros.",
+    "districts": [
+      "Distrito Utopía",
+      "Distrito Karanese",
+      "Distrito Trost",
+      "Distrito Klorva"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Muralla Sina",
+    "image": "https://i.imgur.com/ijjzuFN.png",
+    "description": "La Muralla Sina es la muralla más interna. La distancia entre la Muralla Sina y la capital Mitras es de 250 kilómetros, y entre la Muralla Sina y Rose es de 130 kilómetros. Tiene como principal objetivo proteger el reino donde la monarquía y las clases altas residen. La ciudad en el interior de la Muralla Sina está custodiada por la Policía Militar, ya que tiene como objetivo la protección del rey.",
+    "districts": [
+      "Distrito Orvud",
+      "Distrito Stohess",
+      "Distrito Ehrmich",
+      "Distrito Yarckel",
+      "Distrito Mitras"
+    ]
+  }
+]
